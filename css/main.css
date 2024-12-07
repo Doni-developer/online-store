@@ -14,6 +14,14 @@
 	z-index: 1;
 }
 
+
+
+.active{
+	color: #8000ff !important;
+}
+
+
+
 .container {
 	max-width: 80%;
 	margin: 0 auto;
